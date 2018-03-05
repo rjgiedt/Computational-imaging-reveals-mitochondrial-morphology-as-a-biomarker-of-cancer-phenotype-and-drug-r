@@ -12,8 +12,5 @@ In the attached code repository are attached several files and their dependencie
 
 **Single_Cell_Analysis.m** - File produces summary statistics from segmented and classified mitochondrial images for manually derived cell border regions.
 
-![Mitochondrial Segmentation and Classification](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=5017129_srep32985-f2.jpg)
-
-
 Overall, these files should function as a way to quickly get a system of analyzing mitochondria as seen below up and running in your own lab. For additional information please see the complete manuscript:
 https://www.ncbi.nlm.nih.gov/pubmed/27609668
