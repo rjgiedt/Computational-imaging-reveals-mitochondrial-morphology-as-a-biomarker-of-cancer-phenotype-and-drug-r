@@ -53,11 +53,3 @@ original_image_adj = imadjust(original_image);
 imwrite(original_image_adj,'original_image_2.tiff');
 imwrite(overlay, 'Overlay_2.tiff');
 imwrite(Iobrcbr, 'Segmented_2.tiff');
-
-%% h 
-
-h = [ -1 -1 -1 -1 -1
-      -1 -1 -1 -1 -1
-      -1 -1 50 -1 -1
-       -1 -1 -1 -1 -1 
-       -1 -1 -1 -1 -1];
